@@ -32,6 +32,7 @@ User Interface & deployment :  Created an UI that shows the output.
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
 git clone https://github.com/Shankar297/Language-Detection-App-Using-Flask.git
+```
 
 ```bash
 pip install -r requirements.txt
